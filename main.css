@@ -1,0 +1,19 @@
+h1{
+  font-size:50px;
+font-family: 'Barriecito', cursive;
+}
+h2{
+  font-size:30px;
+font-family:  'Special Elite', cursive;
+}
+li{
+  font-size:19px;
+font-family: 'Handlee', cursive;
+color: white;
+}
+/* Style the tab */
+body{
+  background-image: linear-gradient(-360deg,red,purple);
+  color:white;
+font-family: 'Handlee', cursive;
+}
